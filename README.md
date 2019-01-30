@@ -1,7 +1,11 @@
 # IGLOSS
 IGLOSS: iterative gapless local similarity search
 
-Program takes four arguments:    proteome_file_name      query_file_name     scale     number_of_iterations
+Program takes four arguments:    
+proteome_file_name      
+query_file_name     
+scale     
+number_of_iterations
 
 Proteome file can be in fasta or text format. 
 
