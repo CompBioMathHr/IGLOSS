@@ -18,6 +18,6 @@ Number of iterations is selfexplanitory.
 IGLOSS.cpp calls logistic.py to make a logistic fit of the data.
 
 IGLOSSnopy.cpp is IGLOSS.cpp without calling logistic.py for logistic fit. 
-It makes an estimation of logistic fit via mean and standard deviation.  
+It makes an estimation of logistic fit via mean and standard deviation of the data.  
 
 
