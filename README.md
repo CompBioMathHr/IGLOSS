@@ -1,6 +1,8 @@
 # IGLOSS
 IGLOSS: iterative gapless local similarity search
 
+Explanation of the method can be found at: http://compbioserv.math.hr/igloss/
+
 Program takes four arguments:    
 proteome_file_name      
 query_file_name     
