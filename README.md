@@ -14,7 +14,7 @@ Symbols 'X' and 'x' standing for any amino acid symbol are allowed.
 One extra row of 0 and 1 is allowed, where 1 stands for a conserved position. 
 All rows in the query file must be of equal length.  
 
-Scale is a positive float. This parameter measures similarity between input query and the response. 
+Scale is a positive float. This parameter measures similarity between the input query and the response. 
 The higher it is - higher is the similarity. Reasonable scale is from 3 to 15.  
 
 Number of iterations is selfexplanitory.
