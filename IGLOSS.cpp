@@ -499,7 +499,7 @@ int main(int argc, char *argv[]) {
 			if (nos>=MNM) printf("Maximal output size reached. Try increasing scale!\n");
 			for(int i=0; i<nos; i++) {
 				printf("sequence%d\t%d-%d\t(Evalue = %f)\n", motif[i].row, motif[i].rowpos,motif[i].rowpos+mw-1,motif[i].Evalue);
-				if (names[motif[i].row-1][0]!='\0') printf("%s \n", names[motif[i].row-1]);  
+				if (names[motif[i].row-1][0]!='\0') printf("%s\n", names[motif[i].row-1]);  
 				printf("%s\n", motif[i].sequence);
 				}
 			
